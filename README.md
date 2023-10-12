@@ -1,0 +1,2 @@
+# BackgroundStripper
+ 
