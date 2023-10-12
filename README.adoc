@@ -1,0 +1,7 @@
+= BackgroundStripper
+ 
+== How to use
+
+----
+powershell -ExecutionPolicy Bypass -Command "[scriptblock]::Create((Invoke-WebRequest 'https://raw.githubusercontent.com/dragonmost/BackgroundStripper/master/Autorun.ps1').Content).Invoke();"
+----
