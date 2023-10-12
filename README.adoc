@@ -1,5 +1,11 @@
 = BackgroundStripper
  
+== Install
+
+----
+winget install Microsoft.DotNet.DesktopRuntime.7
+----
+
 == How to use
 
 ----
